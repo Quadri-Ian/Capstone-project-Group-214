@@ -1,0 +1,164 @@
+body{
+    background-color: hsl(218, 28%, 15%);
+    background-image: url(../bg-curvy-desktop.svg);
+    color: white;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    font-family: url(https://fonts.google.com/specimen/open+sans);
+    font-size: 14px;
+    font-weight: 400 500;
+}
+.nav-bar{
+    float: right;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+.header{
+    display: inline;
+}
+button{
+    text-align: center;
+    width: 20%;
+}
+.navlink{
+    color: white;
+    text-decoration: none;
+}
+.features{
+    display: flex;
+}
+#fylo{
+    height: 70px;
+    width: 100px;
+}
+#myimg{
+    height: 500px;
+    width: 700px;
+}
+.body{
+    text-align: center;
+}
+#start{
+    background-color: hsl(198, 60%, 50%);
+    border-style: none;
+    padding: 20px;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    color:hsl(0, 0%, 100%)
+}
+.firstpart{
+    display:flex;
+    justify-content: center;
+
+}
+.secondpart{
+    display: flex;
+    justify-content: center;
+}
+.access{
+    margin-right: 50px;
+}
+.security{
+    margin-left: 50px;
+}
+.realtime{
+    margin-right: 50px;
+}
+.store{
+    margin-left: 50px;
+}
+.stay{
+    float: right;
+    text-align: justify;
+    margin-left: 10px;
+}
+#illus{
+    height: 300px;
+    width: 400px;
+}
+.card{
+    background-color: hsl(219, 30%, 18%);
+    text-align: justify;
+    padding: 20px 20px;
+    
+}
+.test{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+#image{
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+.get{
+  background-color: hsl(217, 28%, 15%);
+  justify-content: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-bottom: 40px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#for{
+  border-radius: 50px;
+  background-color: hsl(198, 60%, 50%);
+  border-style: none;
+  padding: 10px;
+  
+}
+#mail{
+    border-radius: 25px;
+    padding-right: 250px;
+    border-style: none;
+
+}
+#arrow{
+width: 20px;
+height: 20px;
+}
+#http{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border-style: none none solid none;
+    border-color: hsl(198, 60%, 50%);;
+}
+.foot{
+    float: left;
+}
+#svg{
+    float: left;
+}
+.pho{
+    display: flex;
+    justify-content: space-around;
+}
+#ple{
+position: relative;
+color: red;
+margin: 5px 0 0 -400px;
+
+}
+#fb{
+    width: 30px;
+    height: 20px;
+}
+#twi{
+    width: 30px;
+    height: 20px;
+}
+#ig{
+    width: 30px;
+    height: 20px;
+}
